@@ -2,7 +2,7 @@ api_id = 29234663
 
 api_hash = "94235bdf61b1b42e67b113b031db5ba5"
 
-bot_token = "7106980790:AAHxI_Ucyock1d-6QPSE0cRgPBG-sKmPmEU"
+bot_token = "6445891280:AAEVo9PdCMMjftY2qCxdl-sguhgRU4mAzSs"
 
 GROUP_TAG = "My Big Brain"
 
