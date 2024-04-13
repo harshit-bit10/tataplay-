@@ -1,0 +1,24 @@
+{
+  "name": "Simple-Rename-Bot",
+  "description": "Simple & High Speed Telegram File Rename Bot For only personal use",
+  "keywords": ["telegram", "Rename-bot", "pyrogram"],
+  "logo": "#",
+  "repository": "https://github.com/MrMKN/Simple-Rename-Bot",
+  "env": {
+    "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
+    "API_HASH": {"description": "Get this value from https://my.telegram.org", "required": true},
+    "BOT_TOKEN": {"description": "Your bot token. Get this value from https://t.me/BotFather", "required": true},
+    "ADMIN": {"description": "Your Telegram ID. Because this bot repo is admin only", "required": true},
+    "DATABASE_CHANNEL": {"description": "Channel ID where the bot will store its database", "required": true}
+  },
+  "addons": [],
+  
+  "buildpacks": [
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    },
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
