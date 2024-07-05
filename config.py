@@ -1,14 +1,14 @@
-api_id = 29234663
+api_id = 27190467
 
-api_hash = "94235bdf61b1b42e67b113b031db5ba5"
+api_hash = "ff6bc6ad2faba520f426cf04ca7f5773"
 
-bot_token = "6445891280:AAEVo9PdCMMjftY2qCxdl-sguhgRU4mAzSs"
+bot_token = "7380805643:AAHlArUMtJrYDQCPOX1SwjI4tdAe64Ktruk"
 
-GROUP_TAG = "My Big Brain"
+GROUP_TAG = "Lost Iddd"
 
 sudo_users = [6066102279,1919633191,5574593875,6610700592,1119579816,1938207469,5043657911,1889175355]
 
-AUTHORIZED_CHATS = "-1001921709775"
+AUTHORIZED_CHATS = "-1002175919285"
 
 DL_DONE_MSG = """
 ✅ <b> {} Completed In </b> <code>{}</code>
