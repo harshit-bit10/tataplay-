@@ -60,7 +60,7 @@ def tplay_past_catchup_dl_cmd_handler(app, message):
 @app.on_message(filters.incoming & filters.command(['start']) & filters.text)
 def start_cmd_handler(app, message):
 
-    message.reply_text("<b>A Telegram bot to download from tataPlay</b>\n\n`> >`<b> Made with Love by RC</b>")
+    message.reply_text("<b>A Telegram bot to download from tataPlay</b>\n\n`> >`<b> Made with Love by @LostIddd</b>")
     
 
 print(script_developer , "\n")
